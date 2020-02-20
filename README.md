@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+hi humans!
+i am a marsian, get perpared!
